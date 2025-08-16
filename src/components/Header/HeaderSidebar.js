@@ -26,8 +26,8 @@ export default function HeaderSidebar({ activeNav, categoryList }) {
                 closable={false}
                 onClose={onClose}
             >
-                <Link href="/" title="波波博客 - www.boblog.com" className="block w-36 mb-8">
-                    <Image src={LogoImage} width="0" height="0" sizes="100vw" className="w-full h-auto" alt="波波博客 - www.boblog.com" />
+                <Link href="/" title="畅城博客 - www.boblog.com" className="block w-36 mb-8">
+                    <Image src={LogoImage} width="0" height="0" sizes="100vw" className="w-full h-auto" alt="畅城博客 - www.boblog.com" />
                 </Link>
 
                 <div className="flex flex-col">

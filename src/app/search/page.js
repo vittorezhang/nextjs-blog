@@ -7,7 +7,7 @@ import ArticleEmptyList from '@/components/Common/ArticleEmptyList'
 import { defaultMeta } from '@/lib/defaultMeta'
 
 export const metadata = {
-    title: '波波博客-搜索文章-boblog.com',
+    title: '畅城博客-搜索文章-boblog.com',
     description: defaultMeta.description,
     keywords: defaultMeta.keywords
 }

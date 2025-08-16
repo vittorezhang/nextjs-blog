@@ -9,8 +9,8 @@ import { getNavClass, NAV_ENUM } from '@/lib/nav'
 export default async function PCHeader({ activeNav, categoryList }) {
     return (
         <header className="blog-header py-10 flex items-center justify-between">
-            <Link href="/" title="波波博客 - www.boblog.com" className="block w-36">
-                <Image src={LogoImage} width="0" height="0" sizes="100vw" className="w-full h-auto" alt="波波博客 - www.boblog.com" />
+            <Link href="/" title="畅城博客 - www.boblog.com" className="block w-36">
+                <Image src={LogoImage} width="0" height="0" sizes="100vw" className="w-full h-auto" alt="畅城博客 - www.boblog.com" />
             </Link>
 
             <div className="flex items-center px-4 whitespace-nowrap">

@@ -22,11 +22,11 @@ export default function About() {
             <div className="about-content">
                 <div className="about-lef flex-1">
                     <p>你好！</p>
-                    <p>我是 BOBO，也叫 Bobby。</p>
+                    <p>我是 畅城，也叫 Vittore。</p>
                     <p>
                         我非常喜爱这个网站，因为它一个非常帅气的域名：
                         <Link className="text-primary hover:underline" href={'https://boblog.com'}>
-                            BoBlog.com
+                            vittoreblog.com
                         </Link>
                         ， 还有一个极具美感的 Logo。
                     </p>
@@ -34,7 +34,7 @@ export default function About() {
                     <p>希望我的分享能对你有所帮助！</p>
                 </div>
                 <div className="about-right">
-                    <Image src={travelImage} width="0" height="0" sizes="100vw" className="about-image" alt={'波波博客'} />
+                    <Image src={travelImage} width="0" height="0" sizes="100vw" className="about-image" alt={'畅城博客'} />
                 </div>
             </div>
         </>
