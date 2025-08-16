@@ -2,6 +2,8 @@
 
 使用 Next.js (`14.2.5`) 框架开发。
 
+- Node.js version >= v18.17.0 is required.
+
 ## 亮点
 
 -   极简的网站风格
